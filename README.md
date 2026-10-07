@@ -99,7 +99,7 @@ npm run dev
 ## Conference presentation
 
 VELMA and the lab's other management tools were presented at **ISAM 2025** (International Symposium on Academic Makerspaces) in the poster *"Strategies for Managing a High-Throughput Academic Makerspace."* I was the lead author, and my co-author was Joshua Cocker, a Keystone Program instructor and the ENES100 lab manager. I wrote and designed the poster, including the isometric lab illustration, in Adobe Illustrator, and we presented it together at the conference. The poster covers how the ENES100 labs support 480–800 students each week. It shows how the physical organization (shadow-boarded tool chests, the School Store, digital signage) works together with software tools like VELMA on the lab tablets, Tool Check, and the course website.
-![ISAM 2025 poster: Strategies for Managing a High-Throughput Academic Makerspace](docs/isam-2025-poster.jpg)
+![ISAM 2025 poster: Strategies for Managing a High-Throughput Academic Makerspace](/isam-2025-poster.jpg)
 
 ## Credits
 
